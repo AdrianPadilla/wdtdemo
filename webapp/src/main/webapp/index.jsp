@@ -4,5 +4,6 @@
 </head>
 <body>
 Hello from an application configured through Oracle WebLogic Deploy Tooling
+Updated
 </body>
 </html>
