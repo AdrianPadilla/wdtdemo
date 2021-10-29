@@ -6,4 +6,4 @@ appDeployments:
     myapp:
       SourcePath: 'wlsdeploy/applications/webapp.war'
       ModuleType: ear
-        Target: '@@PROP:cluster.t1.name@@'
+      Target: '@@PROP:cluster.t1.name@@'
