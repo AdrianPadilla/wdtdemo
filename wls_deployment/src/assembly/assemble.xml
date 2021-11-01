@@ -11,7 +11,6 @@
             <outputFileNameMapping>${artifact.artifactId}.${artifact.extension}</outputFileNameMapping>
             <includes>
                 <include>com.apd.weblogic:webapp</include>
-                <include>javax.ws.rs:javax.ws.rs-api</include>
             </includes>
         </dependencySet>
         <dependencySet>
